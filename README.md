@@ -6,7 +6,7 @@ This project demonstrates how to build a binary classifier using **Logistic Regr
 
 ## Dataset
 
-We use the [Breast Cancer Wisconsin (Diagnostic) Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
+I have used the [Breast Cancer Wisconsin (Diagnostic) Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
 ---
 
 ## Tools and Libraries
@@ -58,7 +58,9 @@ We use the [Breast Cancer Wisconsin (Diagnostic) Dataset](https://archive.ics.uc
 ## 📉 Sigmoid Function
 
 The sigmoid function is used to map any real-valued number into the (0, 1) interval, enabling probability interpretation:
+
 \[
 \sigma(z) = \frac{1}{1 + e^{-z}}
 \]
+
 The project includes a plot of the sigmoid curve over a range of values.
