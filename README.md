@@ -61,5 +61,5 @@ The sigmoid function is used to map any real-valued number into the (0, 1) inter
 
 ```math
 \sigma(z) = \frac{1}{1 + e^{-z}}
-
+```
 The project includes a plot of the sigmoid curve over a range of values.
