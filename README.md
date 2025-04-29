@@ -59,8 +59,7 @@ I have used the [Breast Cancer Wisconsin (Diagnostic) Dataset](https://archive.i
 
 The sigmoid function is used to map any real-valued number into the (0, 1) interval, enabling probability interpretation:
 
-\[
+```math
 \sigma(z) = \frac{1}{1 + e^{-z}}
-\]
 
 The project includes a plot of the sigmoid curve over a range of values.
